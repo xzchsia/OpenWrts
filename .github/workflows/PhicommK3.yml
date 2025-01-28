@@ -1,4 +1,4 @@
-name: Raspberry Pi3B+
+name: Phicomm K3
 
 on:
   repository_dispatch:
